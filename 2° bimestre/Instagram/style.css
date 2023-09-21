@@ -67,7 +67,7 @@ hr {
     height: 80px;
     border-radius: 50%;
 }
-#informacoes .maix img{
+#informacoes .mais img{
     width: 20px;
     height: 20px;
     margin-top: 68px;
@@ -103,24 +103,6 @@ hr {
     cursor: pointer;
 }
 
-#stories {
-    
-    height: 78px;
-    width: 474px;
-    margin-left: -15px;
-    margin-top: 30px;
-    gap: -25px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    text-align: center;
-    font-size: 15px;
-    
-}
-
-#stories img {
-    border-radius: 50%;
-}
 
 
 #pre-fotos {
